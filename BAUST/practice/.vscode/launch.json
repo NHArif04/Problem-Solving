@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/nahid/OneDrive/Desktop/Problem-Solving/youtube learnig",
-      "program": "c:/Users/nahid/OneDrive/Desktop/Problem-Solving/youtube learnig/build/Debug/outDebug",
+      "cwd": "c:/Users/nahid/OneDrive/Desktop/Problem-Solving/BAUST/practice",
+      "program": "c:/Users/nahid/OneDrive/Desktop/Problem-Solving/BAUST/practice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

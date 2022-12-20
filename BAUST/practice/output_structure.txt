@@ -1,0 +1,21 @@
+Number of students : 
+Student 1:
+Name: ID: CGPA: Phone: 
+Student 2:
+Name: ID: CGPA: Phone: 
+Student 3:
+Name: ID: CGPA: Phone: 
+Student 4:
+Name: ID: CGPA: Phone: 
+Student 5:
+Name: ID: CGPA: Phone: 
+Displaying the best 3 records:
+1st. - Ruhul Amin, - 200101093, - 3.88
+
+
+2nd. - Wahid Rahman, - 200101063, - 3.54
+
+
+3rd. - MD Al Arman Sorker, - 200101059, - 3.50
+
+
