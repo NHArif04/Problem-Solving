@@ -1,0 +1,23 @@
+code . - to open folder on vs code
+touch - to create new file
+
+
+git status -  to check whether file are updated or not
+git add "name of the file/*" - upload specific file or * to add all file of that directory
+cd - stand for change directory
+cd .. - one step back
+ls - file list on a specific directory - use ""/'' to change directory
+dir - file list on a specific directory - exact words to command line to change directory
+cd "name of the directory" - to go on given directory
+
+
+git init
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/NHArif04/Practice.git
+git push -u origin master
+
+
+
+git add README.md
+echo "# Practice" >> README.md
