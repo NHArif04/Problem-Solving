@@ -6,9 +6,9 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/Mini project"
             ],
-            "compilerPath": "C:/Program Files/CodeBlocks/MinGW/bin/gcc.exe",
-            "cStandard": "${default}",
-            "cppStandard": "${default}",
+            "compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu23",
+            "cppStandard": "gnu++23",
             "intelliSenseMode": "windows-gcc-x64",
             "compilerArgs": [
                 ""
