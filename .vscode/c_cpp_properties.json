@@ -4,9 +4,9 @@
             "name": "windows-gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/Mini project"
+                "${workspaceFolder}/"
             ],
-            "compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+            "compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",
             "cStandard": "gnu23",
             "cppStandard": "gnu++23",
             "intelliSenseMode": "windows-gcc-x64",
