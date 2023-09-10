@@ -26,12 +26,18 @@ public:
     //     return data.size()!=nums.size();
 
        unordered_map<int,int>freq(0);
-        for(int i=0;i<nums.size();i++){
+        for(int i:nums){
             freq[nums[i]]++;
-            if(freq[nums[i]]>1)
+            if(freq[i]>1)
                 return true;
         }
         return false;
+    
+        // sort(nums.begin(),nums.end());
+        // for(int i=1;i<nums.size();i++){
+        //     if(nums[i]==nums[i-1]) return true;
+        // }
+        // return false;
     }
 }; 
 */
