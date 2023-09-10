@@ -6,14 +6,14 @@ typedef unsigned long ul;
 ul countCycle(ul);
 
 int main(){
-    ul i, j, newMax, max, n;
+    ul i, j;
     while(cin >>i>>j){
-        max = countCycle(i);
         cout<<i<<" "<<j<<" ";
         if(i>j) i^=j^=i^=j;
+        ul max{};
 
-        for(n=i+1; n<=j; n++){
-            newMax = countCycle(n);
+        for(ul n=i; n<=j; n++){
+            ul newMax = countCycle(n);
             if(newMax > max) max = newMax;
         }
         cout<<max<<endl;
