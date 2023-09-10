@@ -18,7 +18,7 @@
 		- [1.9 Priority Queue `std::priority_queue`](#19-priority-queue-stdpriority_queue)
 		- [1.10 Heap `std::priority_queue`](#110-heap-stdpriority_queue)
 		- [1.11 String](#111-string)
-	- [2.0 Trees](#20-trees)
+	- [2.0 Trees & Graph](#20-trees)
 		- [2.1 Binary Tree](#21-binary-tree)
 		- [2.2 Balanced Trees](#22-balanced-trees)
 		- [2.3 Binary Search](#23-binary-search)
