@@ -17,6 +17,7 @@
 		- [1.8 Queue `std::queue`](#18-queue-stdqueue)
 		- [1.9 Priority Queue `std::priority_queue`](#19-priority-queue-stdpriority_queue)
 		- [1.10 Heap `std::priority_queue`](#110-heap-stdpriority_queue)
+		- [1.11 String](#111-string)
 	- [2.0 Trees](#20-trees)
 		- [2.1 Binary Tree](#21-binary-tree)
 		- [2.2 Balanced Trees](#22-balanced-trees)
@@ -27,12 +28,16 @@
 		- [3.1 NP Complete](#31-np-complete)
 		- [3.2 Traveling Salesman Problem](#32-traveling-salesman-problem)
 		- [3.3 Knapsack Problem](#33-knapsack-problem)
-	- [4.0 Algorithms](#40-algorithms)
+	- [4.0 Algorithms - Sorting](#40-algorithms)
 		- [4.1 Insertion Sort](#41-insertion-sort)
 		- [4.2 Selection Sort](#42-selection-sort)
 		- [4.3 Bubble Sort](#43-bubble-sort)
 		- [4.4 Merge Sort](#44-merge-sort)
 		- [4.5 Quicksort](#45-quicksort)
+	- [5.0 Algorithms - Searching](#40-algorithms)
+		- [5.1 Linear Search](#45-quicksort)
+		- [5.2 Binary Search](#23-binary-search)
+
 
 <!-- /TOC -->
 
@@ -393,7 +398,7 @@ unsigned int count = s.count(20);
 **Use for**
 * First-In Last-Out operations
 * Reversal of elements
-
+* Notation - `prefix` or `postfix` to `infix` 
 **Time Complexity**
 
 | Operation    | Time Complexity |
@@ -496,6 +501,12 @@ p.pop();
 **Max Heap Example (using a binary tree)**
 
 ![MaxHeap](General/MaxHeap.png)
+-------------------------------------------------------
+### 1.11 String
+**Operation**
+* LCS
+* LCA
+* Permutation
 -------------------------------------------------------
 ## 2.0 Trees
 ### 2.1 Binary Tree
